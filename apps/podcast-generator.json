@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "podcast-generator",
+  "owner": "arkml",
+  "repo": "arkml/podcast-generator",
+  "description": "Turn anything into a podcast — an arXiv paper, a URL, a topic, or a document. A background agent researches, writes, and records a two-host deep-dive; episodes play right from the library.",
+  "createdAt": "2026-08-17T09:26:23.845Z"
+}
