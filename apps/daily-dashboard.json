@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "daily-dashboard",
+  "owner": "awafula77",
+  "repo": "awafula77/daily-dashboard",
+  "description": "Daily briefing dashboard showing live Google Calendar meetings, unread Gmail emails, action items, and weather.",
+  "createdAt": "2026-08-18T13:56:44.733Z"
+}
